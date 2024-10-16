@@ -1,4 +1,4 @@
-module github.com/gokrazy/internal
+module github.com/TinHead/internal
 
 go 1.21
 
