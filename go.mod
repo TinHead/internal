@@ -9,4 +9,4 @@ require (
 	golang.org/x/sys v0.20.0
 )
 
-replace github.com/gokrazy/internal => github.com/TinHead/internal v0.0.0-20241016102339-ae9ae933fcf2
+replace github.com/gokrazy/internal => github.com/TinHead/internal v0.0.0-20240827190026-6ab9fef83042
